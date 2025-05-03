@@ -28,6 +28,6 @@ Below are four example outputs showing the original Ishihara image and the extra
 | Example | Original Image | Extracted Number |
 |--------:|----------------|------------------|
 | 1 | ![Example 1 Original](examples/12.jpg) | ![Example 1 Result](examples/12_extracted.png) |
-| 2 | ![Example 2 Original](examples/6jpg)   | ![Example 2 Result](examples/6_extracted.png)  |
+| 2 | ![Example 2 Original](examples/6.jpg)   | ![Example 2 Result](examples/6_extracted.png)  |
 | 3 | ![Example 3 Original](examples/42.jpg) | ![Example 3 Result](examples/42_extracted.png) |
 | 4 | ![Example 4 Original](examples/74.jpg) | ![Example 4 Result](examples/74_extracted.png) |
